@@ -19,7 +19,7 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-``https://github.com/DevAloshe/BlockChain-Based-Document-Verfication-With-IPFS.git``
+``[https://github.com/DevAloshe/BlockChain-Based-Document-Verfication-With-IPFS.git](https://github.com/AjiRKS/SertifChain__PBLS5.git)``
 
 
 2. Install the required packages:
